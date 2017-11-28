@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.menas.curiosiapp.SplashScreen"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/colorPrimaryDark"
+    >
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.38"
+        android:gravity="center_vertical"
+        android:text="CuriosiApp"
+        android:textAlignment="center"
+        android:textColor="@color/colorIcons"
+        android:textStyle="bold"
+        android:textSize="@android:dimen/app_icon_size" />
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.32"
+        android:src="@drawable/ic_curisiapp" />
+
+    <TextView
+        android:id="@+id/autor"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+        android:gravity="bottom"
+        android:paddingBottom="20dp"
+        android:text="Juan Mena"
+        android:textAlignment="center"
+        android:textColor="@color/colorIcons" />
+
+</LinearLayout>

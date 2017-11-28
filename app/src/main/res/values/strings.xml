@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CuriosiApp</string>
+    <string name="title_activity_login">Ingresar</string>
+    <string name="title_activity_registro">Registrarse</string>
+    <string name="title_activity_registrar_pregunta">Registrar Pregunta</string>
+
+    <!-- Preguntas -->
+
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <string name="correct">Muy bien!</string>
+    <string name="incorrect">Incorrecto...</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Acabar</string>
+    <string name="prev">Anterior</string>
+    <string name="results">Resultados</string>
+    <string name="start_over">Volver a Empezar</string>
+
+    <!-- Cadenas realcionadas con el login -->
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Clave</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="error_invalid_email">La dirección de correo es invalida</string>
+    <string name="error_invalid_password">La clave es muy corta</string>
+    <string name="error_incorrect_password">La clave es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Se necesitan permisos de contactos para proporcionar terminaciones de correo electrónico."</string>
+
+    <!-- Preguntas-->
+    <array name="all_questions">
+        <item>1. Desmembrando la palabra ingeniería de sistemas, encuentro varias definiciones, una
+            de ellas es la palabra "ingenio", por tal motivo podemos definirla como:;A. evaluación
+            de estadísticas dispuestas a arrojar un resultado lógico de una acción.;B. argumentación
+            del origen de la vida en cada una de las áreas de la filosofía.;*C. facultad del ser
+            humano de pensar e inventar de una manera pronta y fácil.;D. participación de
+            secuencias, destinadas al desarrollo de una empresa.
+        </item>
+        <item>2. La tecnologia la podemos definir como el conjunto de teorias y tecnicas que
+            facilita y permite el aprovechamiento practico del conocimiento cientifico sabiendo esto
+            podemos argumentar que la Tecnologia en si es:;A. Evangelizadora.;B. exacta.;*C.
+            Cientifica y Practica.;D. Popular.
+        </item>
+        <item>3. El tratamiento de un producto para lograr su creacion, depende de la organizacion
+            de cada uno de sus procesos, por tal motivo podemos definir que "X" y "Y" son procesos
+            determinados para lograr un producto, defina si:;A. "X" trabaja individualmente a "Y" y
+            no depende de "X".;*B. Tanto "X" depende de "Y" como "Y" de "X".;C. "Y" trabaja
+            individualmente a "X" y no depende de "Y".;D. "X" y "Y" arrojan productos diferentes.
+        </item>
+        <item>4. Segun el papel y perfil del ingeniero de sistemas debe ser:;A. Soñador y
+            Perezoso.;B. Creativo y Actualizado.;*C. Alegre y Visionario.;D. Sedentario y
+            Desactualizado.
+        </item>
+        <item>5. Un ingeniero de sistemas en la actualidad debe preocuparse por:;A. Vestir bien y
+            oler bien.;B. Comer poco y a deshoras.;*C. Manejo de Informacion y Sistemas
+            tecnologicos.;D. Ninguna de las anteriores.
+        </item>
+        <item>6. En el proceso de creacion encontramos 4 caracteristicas que acompañan el proceso de
+            u ingeniero de sistemas, estas son:;*A. Participar, Orientar, Coordinar y Terminar.;B.
+            Preparar, Dirigir, Coordinar y Terminar.;C. Escuchar y Desidir, Coordinar y Terminar.;
+            D. Ninguna de las anteriores.;
+        </item>
+        <item>7. Un ingeniero de sistemas tiene el trabajo y/o labor en cada uno de los proyectos
+            de:;A. Ensamble y matenimiento de computadores.;B. Reparación de sistemas no
+            informaticos.;C. Instalar sistemas operativos y ensamblar computadores.;*D. Costos,
+            recurso humano, factibilidad, evaluacion de proyecto,planeación, busqueda de
+            herramientas, cantidad y calculo de tiempo del proceso.
+        </item>
+        <item>8. Algunas de las lineas de la Ingenieria de Sistemas son:;*A. Redes, Desarrollo de
+            Software, Planeacion de Arquitectura Empresarial, Auditoria de Sistemas.; B.
+            Inteligencia Artifical, Finanzas, Diseño Industrial, Mantenimiento de maquinaria
+            pesada.; C. Redes, Dinamica, Desarrollo de Software, Matematicas Discretas.; D.
+            Inteligencia Artificial, Estatica, Redes, Auditoria de Sistemas.
+        </item>
+        <item>9. Contratan a un Ingeniero de Sistemas para implementar una red en la empresa de
+            Postobon, lo primero que debe hacer es:; A. Diseñar la arquitectura del software con
+            base en los requerimientos establecidos.;*B. Diseñar la arquitectura de la red con base
+            en los requerimientos establecidos.;C. Configurar los Switch y Router necesarios para la
+            implementacion de la red.;D. Rediseñar la estructura fisica de la empresa.
+        </item>
+        <item>10. La diferencia entre sistémico y sistemático es:;*A. Sistemático es aquel que sigue
+            o se ajusta a un sistema y sistémico hace relacion a la totalidad de un sistema.;B.
+            Sistémico es aquel que sigue o se ajusta a un sistema y sistemático hace relacion a la
+            totalidad de un sistema.;C. Sistemático es aquel que se realiza con poca frecuencia y
+            Sistémico es aquel que hace parte de una porción del sistema.;D. Ninguna
+        </item>
+    </array>
+    .
+
+</resources>
